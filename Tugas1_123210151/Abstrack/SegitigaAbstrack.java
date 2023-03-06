@@ -11,6 +11,6 @@ public class SegitigaAbstrack extends Abstrack {
 
     @Override
     public float getLuas() {
-        return (alas * tinggi) / 2;
+        return (alas * tinggi);
     }
 }
